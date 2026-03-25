@@ -11,4 +11,4 @@ if (!exists) {
 }
 
 module.exports = db
-``
+
